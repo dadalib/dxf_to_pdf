@@ -137,3 +137,10 @@ dmypy.json
 
 # Cython debug symbols
 cython_debug/
+
+
+# Ignore PDF files
+*.pdf
+
+# Ignore DXF files
+*.dx
