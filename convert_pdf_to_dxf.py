@@ -89,4 +89,4 @@ def pdf_to_dxf(pdf_path, dxf_path, scale=1.0, curve_segments=20):
     print(f"DXF saved at: {dxf_path}")
 
 # Example usage:
-pdf_to_dxf("C:\\Users\\lida\\Projects\\python_playlist\\dxf_to_pdf\\input.pdf", "output.dxf", scale=1.0)
+pdf_to_dxf("input.pdf", "output.dxf", scale=1.0)
